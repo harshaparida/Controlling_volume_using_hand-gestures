@@ -1,7 +1,7 @@
 
-# Hand Gesture Control for Volume and Brightness
+# Hand Gesture Control for Volume 
 
-👋✨ This Python script allows you to control the volume and screen brightness using hand gestures captured from your webcam. It utilizes the MediaPipe library for hand detection and OpenCV for image processing.
+👋✨ This Python script allows you to control the volume using hand gestures captured from your webcam. It utilizes the MediaPipe library for hand detection and OpenCV for image processing.
 
 ## Features
 

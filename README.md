@@ -6,7 +6,6 @@
 ## Features
 
 - Control volume with hand gestures: Move your hand up or down to increase or decrease the volume respectively. 🔊
-- Control brightness with hand gestures: Move your hand closer or further from the camera to increase or decrease the screen brightness respectively. 💡
 
 ## Requirements
 

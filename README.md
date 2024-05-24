@@ -14,10 +14,6 @@ Control your system volume with the wave of your hand! This project uses a webca
 - **Volume Control**: Adjust system volume by varying the distance between your thumb and index finger.
 - **Visual Feedback**: Interactive graphics to show current volume and hand landmarks.
 
-## Demo
-
-![Demo GIF](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
-
 ## Table of Contents
 
 - [Requirements](#requirements)

@@ -21,7 +21,6 @@ Control your system volume with the wave of your hand! This project uses a webca
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Visual Feedback](#visual-feedback)
-- [License](#license)
 
 ## Requirements
 

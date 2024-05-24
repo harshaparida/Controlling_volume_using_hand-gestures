@@ -34,7 +34,7 @@ Control your system volume with the wave of your hand! This project uses a webca
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/hand-gesture-volume-control.git
+   git clone https://github.com/harshaparida/Controlling_volume_using_hand_gestures.git
    cd hand-gesture-volume-control
    ```
 
@@ -47,7 +47,7 @@ Control your system volume with the wave of your hand! This project uses a webca
 
 Run the following command to start the volume control application:
 ```sh
-python volume_control.py
+python hand_gesture_control.py
 ```
 
 ## How It Works
